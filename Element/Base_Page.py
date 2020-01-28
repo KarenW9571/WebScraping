@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from Web_Scraper.Element.Base_Element import BaseElement, BaseElements, SoupElement
+from .Base_Element import BaseElement, BaseElements, SoupElement
 
 
 class BasePage(object):
